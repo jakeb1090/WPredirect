@@ -1,4 +1,4 @@
-# WPredirect
- simple flask app to redirect domain URL to WordPress page
- 
- This simply allows using a custom domain without upgrading WP account
+## Wordpress Redirect
+
+#### Flask app to redirect domain URL to WordPress page
+#### Allows redirection using a custom domain without upgrading WP account to paid plan
